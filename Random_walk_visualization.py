@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 from random_walk import RandomWalk
 
-#initiate either a scatterplot or line randomwalk using the RandomWalk class 
+#Create either a scatterplot or line randomwalk using the RandomWalk class 
 while True:
     walk_type = input("Scatter or Line? (s/l): ").lower()
     
